@@ -1,0 +1,41 @@
+# the number of papps
+PAPPNumber: 4
+# PAPP list
+PAPPs:
+  # PAPP name
+  - PAPP:
+    # the PAPP information to generate cert
+    PAPPName:            "PAPP-A"
+    Country:             "china"
+    Organization:        "buaa"
+    OrganizationalUnit:  "www.buaa.edu.cn"
+    Province:            "beijing"
+    Locality:            "haidian"
+    StreetAddress:       "37"
+
+  - PAPP:
+    PAPPName:            "PAPP-B"
+    Country:             "china"
+    Organization:        "hangtianxinxi"
+    OrganizationalUnit:  "www.hangtianxinxi.com"
+    Province:            "beijing"
+    Locality:            "caoyang"
+    StreetAddress:       "73"
+
+  - PAPP:
+    PAPPName:            "PAPP-C"
+    Country:             "china"
+    Organization:        "hangtianxinxi"
+    OrganizationalUnit:  "www.hangtianxinxi.com"
+    Province:            "shanghai"
+    Locality:            "pudong"
+    StreetAddress:       "66"
+
+  - PAPP:
+    PAPPName:            "PAPP-D"
+    Country:             "china"
+    Organization:        "hangtianxinxi"
+    OrganizationalUnit:  "www.hangtianxinxi.com"
+    Province:            "chongqing"
+    Locality:            "yubei"
+    StreetAddress:       "77"
